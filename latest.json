@@ -1,9 +1,9 @@
 {
   "channel": "preview",
-  "versionName": "0.2.0-dev",
-  "versionCode": 3,
-  "apkUrl": "",
-  "sha256": "1f8c325090ae4856faa399742d7e53b41d4cbd90dbcc25fad9231bef1dd55889",
-  "releaseNotes": "Galeria: wybór wielu zdjęć/filmów, kolejność materiałów, render Film 16:9 i Short 9:16, zapis MP4 do galerii oraz stały podpis DIRECT. Pierwsza instalacja tej bazy jest ręczna.",
+  "versionName": "0.3.0-dev",
+  "versionCode": 4,
+  "apkUrl": "https://github.com/BartekGrabas/AB-Mobile-Studio-Releases/releases/download/v0.3.0-dev/AB-Mobile-Studio-0.3.0-DIRECT.apk",
+  "sha256": "766909dc211aeb283a8307b64fe9f890304beb302869b41061b75002069a4f11",
+  "releaseNotes": "Poprawiony renderer, miniatury materiałów, zapis projektów, lista projektów, edycja/usuwanie, zakładki Materiały i Gotowe filmy oraz podgląd zdjęć i odtwarzacz filmów.",
   "mandatory": false
 }
