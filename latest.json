@@ -3,7 +3,7 @@
   "versionName": "0.2.0-dev",
   "versionCode": 3,
   "apkUrl": "",
-  "sha256": "",
-  "releaseNotes": "Galeria: wybór wielu zdjęć/filmów, kolejność materiałów, render Film 16:9 i Short 9:16 oraz stały podpis DIRECT.",
+  "sha256": "1f8c325090ae4856faa399742d7e53b41d4cbd90dbcc25fad9231bef1dd55889",
+  "releaseNotes": "Galeria: wybór wielu zdjęć/filmów, kolejność materiałów, render Film 16:9 i Short 9:16, zapis MP4 do galerii oraz stały podpis DIRECT. Pierwsza instalacja tej bazy jest ręczna.",
   "mandatory": false
 }
