@@ -1,9 +1,9 @@
 {
   "channel": "preview",
-  "versionName": "0.1.1-dev",
-  "versionCode": 2,
+  "versionName": "0.2.0-dev",
+  "versionCode": 3,
   "apkUrl": "",
   "sha256": "",
-  "releaseNotes": "Mechanizm aktualizacji DIRECT jest przygotowany. Pierwszy stabilnie podpisany APK nie został jeszcze opublikowany.",
+  "releaseNotes": "Galeria: wybór wielu zdjęć/filmów, kolejność materiałów, render Film 16:9 i Short 9:16 oraz stały podpis DIRECT.",
   "mandatory": false
 }
