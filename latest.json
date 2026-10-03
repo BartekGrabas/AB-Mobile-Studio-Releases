@@ -1,7 +1,9 @@
 {
-  "version": "0.1.0",
-  "versionCode": 1,
-  "apk": "",
-  "releaseNotes": "Pierwsze wydanie nie jest jeszcze opublikowane.",
+  "channel": "preview",
+  "versionName": "0.1.1-dev",
+  "versionCode": 2,
+  "apkUrl": "",
+  "sha256": "",
+  "releaseNotes": "Mechanizm aktualizacji DIRECT jest przygotowany. Pierwszy stabilnie podpisany APK nie został jeszcze opublikowany.",
   "mandatory": false
 }
