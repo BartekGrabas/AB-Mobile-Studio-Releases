@@ -1,9 +1,9 @@
 {
   "channel": "preview",
-  "versionName": "0.5.1-dev",
-  "versionCode": 8,
-  "apkUrl": "https://github.com/BartekGrabas/AB-Mobile-Studio-Releases/releases/download/v0.5.1-dev/AB-Mobile-Studio-0.5.1-DIRECT.apk",
-  "sha256": "5a5fca9553ffb774e3b7503e06e38b78f797f41dffbc2ef7d73129db181b8554",
-  "releaseNotes": "Timeline: oś czasu z miniaturami oraz zmiana kolejności przez długie przytrzymanie i przeciągnięcie w lewo/prawo. Zmiany można cofnąć i ponowić.",
+  "versionName": "0.6.0-dev",
+  "versionCode": 9,
+  "apkUrl": "https://github.com/BartekGrabas/AB-Mobile-Studio-Releases/releases/download/v0.6.0-dev/AB-Mobile-Studio-0.6.0-DIRECT.apk",
+  "sha256": "0afb14d02dabf05a0ede1ef2102f0bf1cd624fe08674c39a597a798a5996a96f",
+  "releaseNotes": "CameraX v1: podgląd kamery, tylna/przednia kamera, 1080p/720p, mikrofon, pauza/wznowienie, STOP, zapis nagrania do galerii i automatyczne dodanie klipu do projektu/timeline. Timeline ma też przeciąganie kolejności miniatur.",
   "mandatory": false
 }
