@@ -1,9 +1,9 @@
 {
   "channel": "preview",
-  "versionName": "0.4.1-dev",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/BartekGrabas/AB-Mobile-Studio-Releases/releases/download/v0.4.1-dev/AB-Mobile-Studio-0.4.1-DIRECT.apk",
-  "sha256": "525ee51635ea9f70783b9cb1baa45348f3b3476370f223d2340338904a6da2e0",
-  "releaseNotes": "Etap 5 Timeline: przycinanie początku/końca, podział klipu, wycinanie środka, regulowany czas zdjęcia, nieniszczący EDL oraz migracja długości klipów ze starszych projektów.",
+  "versionName": "0.5.0-dev",
+  "versionCode": 7,
+  "apkUrl": "https://github.com/BartekGrabas/AB-Mobile-Studio-Releases/releases/download/v0.5.0-dev/AB-Mobile-Studio-0.5.0-DIRECT.apk",
+  "sha256": "a337b07330d0029bff52b45034a0c7a061b7c3ca9caada49b6334763935a90ba",
+  "releaseNotes": "Timeline v2: Cofnij/Ponów, podgląd przyciętego klipu oraz podgląd całego projektu zgodnie z EDL przed renderem.",
   "mandatory": false
 }
