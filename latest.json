@@ -1,9 +1,9 @@
 {
   "channel": "preview",
-  "versionName": "0.5.0-dev",
-  "versionCode": 7,
-  "apkUrl": "https://github.com/BartekGrabas/AB-Mobile-Studio-Releases/releases/download/v0.5.0-dev/AB-Mobile-Studio-0.5.0-DIRECT.apk",
-  "sha256": "a337b07330d0029bff52b45034a0c7a061b7c3ca9caada49b6334763935a90ba",
-  "releaseNotes": "Timeline v2: Cofnij/Ponów, podgląd przyciętego klipu oraz podgląd całego projektu zgodnie z EDL przed renderem.",
+  "versionName": "0.5.1-dev",
+  "versionCode": 8,
+  "apkUrl": "https://github.com/BartekGrabas/AB-Mobile-Studio-Releases/releases/download/v0.5.1-dev/AB-Mobile-Studio-0.5.1-DIRECT.apk",
+  "sha256": "5a5fca9553ffb774e3b7503e06e38b78f797f41dffbc2ef7d73129db181b8554",
+  "releaseNotes": "Timeline: oś czasu z miniaturami oraz zmiana kolejności przez długie przytrzymanie i przeciągnięcie w lewo/prawo. Zmiany można cofnąć i ponowić.",
   "mandatory": false
 }
