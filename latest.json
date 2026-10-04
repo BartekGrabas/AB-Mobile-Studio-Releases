@@ -1,9 +1,9 @@
 {
   "channel": "preview",
-  "versionName": "0.8.2-dev",
-  "versionCode": 13,
-  "apkUrl": "https://github.com/BartekGrabas/AB-Mobile-Studio-Releases/releases/download/v0.8.2-dev/AB-Mobile-Studio-0.8.2-DIRECT.apk",
-  "sha256": "f45fdea9efb81f2d1403b7f1112e4d21e5689009aa4b630f76b7d0e8179f1946",
-  "releaseNotes": "Kamera: pełny podgląd bez przycinania, większy obszar kadru, przewijany ekran oraz zwijane Ustawienia obrazu. Regulacja ekspozycji, Noc AUTO i latarka pozostają dostępne.",
+  "versionName": "0.8.3-dev",
+  "versionCode": 14,
+  "apkUrl": "https://github.com/BartekGrabas/AB-Mobile-Studio-Releases/releases/download/v0.8.3-dev/AB-Mobile-Studio-0.8.3-DIRECT.apk",
+  "sha256": "a7bc0909564ce52d5c2db9e14000687d333664118d52491738710060848c2bc2",
+  "releaseNotes": "Kamera v3: START/PAUZA/STOP są stale widoczne na dole podglądu, ustawienia pod ikoną koła zębatego u góry, audio używa źródła CAMCORDER przeznaczonego do nagrań wideo.",
   "mandatory": false
 }
