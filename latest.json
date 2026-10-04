@@ -1,9 +1,9 @@
 {
   "channel": "preview",
-  "versionName": "0.8.0-dev",
-  "versionCode": 11,
-  "apkUrl": "https://github.com/BartekGrabas/AB-Mobile-Studio-Releases/releases/download/v0.8.0-dev/AB-Mobile-Studio-0.8.0-DIRECT.apk",
-  "sha256": "e5bc71aa5fc525b45d0fc315dd3a49bb3116ad5e4b544dcd0d652e6714636ded",
-  "releaseNotes": "Social optimization + montaż przez transkrypcję v1: przycisk optymalizacji pod media społecznościowe, 1080p H.264/AAC z ograniczonym bitrate oraz WYTNij Z FILMU bezpośrednio z segmentu transkrypcji.",
+  "versionName": "0.8.1-dev",
+  "versionCode": 12,
+  "apkUrl": "https://github.com/BartekGrabas/AB-Mobile-Studio-Releases/releases/download/v0.8.1-dev/AB-Mobile-Studio-0.8.1-DIRECT.apk",
+  "sha256": "187288f848f719f621dab77049d7280b755d7aeb07657bfe7137af406156a6b3",
+  "releaseNotes": "Poprawka kamery: Low Light Boost AUTO, ręczna ekspozycja EV, latarka, dotknij podglądu = ostrość i pomiar światła. Dodano własną ikonę AB Mobile Studio na Androidzie.",
   "mandatory": false
 }
