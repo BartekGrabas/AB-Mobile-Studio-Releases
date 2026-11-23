@@ -1,9 +1,9 @@
 {
   "channel": "preview",
-  "versionName": "0.11.0-dev",
-  "versionCode": 17,
-  "apkUrl": "https://github.com/BartekGrabas/AB-Mobile-Studio-Releases/releases/download/v0.11.0-dev/AB-Mobile-Studio-0.11.0-DIRECT.apk",
-  "sha256": "5c712ec97050118823b0fba699504b97a0ffdf1fd79484674418515ae6c13077",
-  "releaseNotes": "Profile publikacji + pakiet metadanych: wiele profili YouTube, link kanału, format, logo/intro/outro, stały opis i hashtagi. Zakładka Publikacja generuje do 5 tytułów, opis, hashtagi i słowa kluczowe z transkrypcji po montażu; pola można edytować, kopiować osobno lub razem i zapisać jako TXT.",
+  "versionName": "0.12.0-dev",
+  "versionCode": 18,
+  "apkUrl": "https://github.com/BartekGrabas/AB-Mobile-Studio-Releases/releases/download/v0.12.0-dev/AB-Mobile-Studio-0.12.0-DIRECT.apk",
+  "sha256": "e9c6f2981f8c7b70fd586c1f0bd36628927d2241f4d46e1740be28df5b714807",
+  "releaseNotes": "AI Smart Cut 8A: wykrywanie długich pauz (z analizą audio) i wypełniaczy (yyy, eee); podgląd cięć, akceptacja/odrzucenie i akceptacja wielu propozycji. Cięcia pozostają nieniszczące i można je cofać. Wersja do testów na telefonie.",
   "mandatory": false
 }
